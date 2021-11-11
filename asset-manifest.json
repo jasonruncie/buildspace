@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/buildspace/static/css/main.52d742f7.chunk.css",
+    "main.js": "/buildspace/static/js/main.ea374017.chunk.js",
+    "main.js.map": "/buildspace/static/js/main.ea374017.chunk.js.map",
+    "runtime-main.js": "/buildspace/static/js/runtime-main.6663a8aa.js",
+    "runtime-main.js.map": "/buildspace/static/js/runtime-main.6663a8aa.js.map",
+    "static/js/2.3e84a86c.chunk.js": "/buildspace/static/js/2.3e84a86c.chunk.js",
+    "static/js/2.3e84a86c.chunk.js.map": "/buildspace/static/js/2.3e84a86c.chunk.js.map",
+    "index.html": "/buildspace/index.html",
+    "static/css/main.52d742f7.chunk.css.map": "/buildspace/static/css/main.52d742f7.chunk.css.map",
+    "static/js/2.3e84a86c.chunk.js.LICENSE.txt": "/buildspace/static/js/2.3e84a86c.chunk.js.LICENSE.txt",
+    "static/media/jason_runcie.bf37fb9f.gif": "/buildspace/static/media/jason_runcie.bf37fb9f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6663a8aa.js",
+    "static/js/2.3e84a86c.chunk.js",
+    "static/css/main.52d742f7.chunk.css",
+    "static/js/main.ea374017.chunk.js"
+  ]
+}
